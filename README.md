@@ -1,1 +1,1 @@
-# Maquina de criar memes em html, css e javascrip.
+# Maquina de criar memes com html, css e javascrip.
