@@ -51,10 +51,7 @@ body {
     align-items: center;
     justify-content: center;
     padding-top: 10px;
-    padding-bottom: 20px;
-    color: white;
-    font-family: 'Franklin Gothic Medium', sans-serif;
-    text-transform: uppercase;
+    padding-bottom: 20px; 
 }
 
 .app-image {
