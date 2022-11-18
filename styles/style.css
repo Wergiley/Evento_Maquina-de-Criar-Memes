@@ -1,5 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  border:0;
+  box-sizing: border-box;
+}
+
 body{
   background: rgb(0, 0, 0);
+  color: white;
 }
 
 .container{
@@ -92,3 +100,21 @@ textarea{
   font-family: sans-serif;
   color: black;
 }
+
+.rodape {
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  background: #24282B;
+  border-top: 1px solid #24282B;
+  margin-top: 20px;
+}
+
+.rodape p {
+  color: white;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+
