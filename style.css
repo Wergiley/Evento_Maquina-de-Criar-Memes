@@ -47,11 +47,11 @@ body {
 }
 
 .logo {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-top: 10px;
-    padding-bottom: 20px; 
+    padding: 40px;
+    background-image: url(/imagens/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
 }
 
 .app-image {
